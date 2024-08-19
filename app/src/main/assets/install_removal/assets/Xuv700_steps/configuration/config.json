@@ -1,0 +1,70 @@
+{
+  "sceneConfig": {
+    "hotSpotsList": [],
+    "cameraAnimationsList": [],
+    "colorVariantsList": [],
+    "modelVariantsList": [],
+    "highLightList": [],
+    "cameraViewsList": {
+      "exterior": [],
+      "interior": [
+        {
+          "name": "seat interior",
+          "type": "interior",
+          "data": {
+            "fov": "1.2",
+            "radius": 0.0001,
+            "position": {
+              "x": -0.21006474068179348,
+              "y": 1.4400527560163627,
+              "z": 0.11005500406219938
+            },
+            "alpha": 2.4373274563162646,
+            "beta": 1.0150703566591204
+          },
+          "isDefault": true
+        }
+      ]
+    },
+    "modelAnimationsList": [],
+    "accessoriesList": {
+      "exterior": [],
+      "interior": []
+    },
+    "defaulModelHideList": [],
+    "modelLightingList": [],
+    "variantsNamesList": [],
+    "modelFilesData": [
+      {
+        "fileName": "Clutch_Plate.glb"
+      },
+      {
+        "fileName": "Clutch_Plate_Closeup_Shoot.glb"
+      },
+      {
+        "fileName": "Cover_Bone.glb"
+      },
+      {
+        "fileName": "Engin_Layout_001.glb"
+      },
+      {
+        "fileName": "Engin_Layout_002.glb"
+      },
+      {
+        "fileName": "Engin_Layout_00345.glb"
+      },
+      {
+        "fileName": "Flywheel_Locking_Tool_Anim.glb"
+      },
+      {
+        "fileName": "MST_Tool.glb"
+      },
+      {
+        "fileName": "Spanner_Bone.glb"
+      },
+      {
+        "fileName": "XUV_700.glb"
+      }
+    ]
+  }
+}

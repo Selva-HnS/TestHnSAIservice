@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">Acumen360</string>
+
+
+    <!-- Login page-->
+    <string name="enter_email_id">Please enter the Email ID</string>
+    <string name="enter_password">Please enter the Password</string>
+    <string name="user_name">User Name</string>
+    <string name="password">Password</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot Password</string>
+
+    <!--Home page-->
+    <string name="navigation_drawer_open">open</string>
+    <string name="navigation_drawer_close">close</string>
+    <string name="chat_history_rename">Rename</string>
+
+    <string name="copyright">© Hard n Soft Technologies</string>
+    <string name="press_back">Press back again to exit</string>
+    <string name="powered_by">Powered by Hard n Soft Technologies. Subscribed to Mahindra and Mahindra Limited</string>
+
+    <string-array name="product_list">
+        <item>XUV 700</item>
+    </string-array>
+
+    <string-array name="voice_list">
+        <item>Alloy</item>
+        <item>Echo</item>
+        <item>Fable</item>
+        <item>Onyx</item>
+        <item>Nova</item>
+        <item>Shimmer</item>
+    </string-array>
+
+
+    <string name="network_connection_error">Internet connection lost, please retry again</string>
+    <string name="network_default_error">Something wrong happened, please retry again</string>
+    <string name="network_internal_error">Our systems got an error, please retry again</string>
+    <string name="network_server_not_available">Our services are under maintenance, please retry after some time</string>
+    <string name="server_connection_error">Not able to connect, please retry again</string>
+    <string name="permission_denied">Permission Denied</string>
+    <string name="network_login_again">Please log in again</string>
+
+
+    <!-- Verify OTP -->
+
+    <string name="otp_verification">OTP Verification</string>
+    <string name="otp_verification_hint">We have sent the verification code to your phone number</string>
+    <string name="enter_otp">Enter the OTP</string>
+    <string name="resend_otp">Resend OTP</string>
+    <string name="submit">Submit</string>
+
+    <string name="please_enter_otp">Please enter the OTP</string>
+    <string name="please_enter_valid_otp">Please enter the valid OTP</string>
+    <string name="digits">ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789</string>
+
+
+    <!-- Chatbot Activity-->
+    <string name="profile">Profile</string>
+    <string name="welcome">Welcome</string>
+    <string name="logout">Logout</string>
+    <string name="product">Product</string>
+    <string name="storage_permission_denied">Storage Permission Denied</string>
+    <string name="no_record_found">No record found</string>
+    <string name="how_can_i_help_you">How can I help you?</string>
+    <string name="message_to_acumen360">Message to Acumen360</string>
+    <string name="today">Today</string>
+    <string name="yesterday">Yesterday</string>
+    <string name="previous_30_days">Previously 30 days</string>
+    <string name="new_chat">New Chat</string>
+
+
+</resources>

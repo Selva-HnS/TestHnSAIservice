@@ -1,0 +1,714 @@
+{
+  "sceneSettings": [
+    {
+      "menu_Id": "PipelineExterior",
+      "headerName": "Pipeline Exterior",
+      "isopened": "",
+      "childMenu": [
+        {
+          "menu_Id": "colorcurvesExterior",
+          "headerName": "Color Curves",
+          "isopened": "",
+          "data": [
+            {
+              "propertyName": "create",
+              "menu_DisplayName": "isEnabled",
+              "type": "boolean",
+              "value": false,
+              "propertyType": "colorcurves"
+            },
+            {
+              "propertyName": "colorCurves",
+              "childpropertyName": "globalHue",
+              "menu_DisplayName": "globalHue",
+              "type": "number",
+              "value": "",
+              "propertyType": "colorcurves"
+            },
+            {
+              "propertyName": "colorCurves",
+              "childpropertyName": "globalDensity",
+              "menu_DisplayName": "globalDensity",
+              "type": "number",
+              "value": "",
+              "propertyType": "colorcurves"
+            },
+            {
+              "propertyName": "colorCurves",
+              "childpropertyName": "globalSaturation",
+              "menu_DisplayName": "globalSaturation",
+              "type": "number",
+              "value": "",
+              "propertyType": "colorcurves"
+            },
+            {
+              "propertyName": "colorCurves",
+              "childpropertyName": "globalExposure",
+              "menu_DisplayName": "globalExposure",
+              "type": "number",
+              "value": "",
+              "propertyType": "colorcurves"
+            },
+            {
+              "propertyName": "colorCurves",
+              "childpropertyName": "highlightsHue",
+              "menu_DisplayName": "highlightsHue",
+              "type": "number",
+              "value": "",
+              "propertyType": "colorcurves"
+            },
+            {
+              "propertyName": "colorCurves",
+              "childpropertyName": "highlightsDensity",
+              "menu_DisplayName": "highlightsDensity",
+              "type": "number",
+              "value": "",
+              "propertyType": "colorcurves"
+            },
+            {
+              "propertyName": "colorCurves",
+              "childpropertyName": "highlightsSaturation",
+              "menu_DisplayName": "highlightsSaturation",
+              "type": "number",
+              "value": "",
+              "propertyType": "colorcurves"
+            },
+            {
+              "propertyName": "colorCurves",
+              "childpropertyName": "highlightsExposure",
+              "menu_DisplayName": "highlightsExposure",
+              "type": "number",
+              "value": "",
+              "propertyType": "colorcurves"
+            },
+            {
+              "propertyName": "colorCurves",
+              "childpropertyName": "shadowsHue",
+              "menu_DisplayName": "shadowsHue",
+              "type": "number",
+              "value": "",
+              "propertyType": "colorcurves"
+            },
+            {
+              "propertyName": "colorCurves",
+              "childpropertyName": "shadowsDensity",
+              "menu_DisplayName": "shadowsDensity",
+              "type": "number",
+              "value": "",
+              "propertyType": "colorcurves"
+            },
+            {
+              "propertyName": "colorCurves",
+              "childpropertyName": "shadowsSaturation",
+              "menu_DisplayName": "shadowsSaturation",
+              "type": "number",
+              "value": "",
+              "propertyType": "colorcurves"
+            },
+            {
+              "propertyName": "colorCurves",
+              "childpropertyName": "shadowsExposure",
+              "menu_DisplayName": "shadowsExposure",
+              "type": "number",
+              "value": "",
+              "propertyType": "colorcurves"
+            }
+          ]
+        },
+        {
+          "menu_Id": "imageProcessingConfigurationExterior",
+          "headerName": "Image Processing Configuration",
+          "isopened": "",
+          "data": [
+            {
+              "propertyName": "imageProcessingConfiguration",
+              "childpropertyName": "exposure",
+              "menu_DisplayName": "exposure",
+              "type": "number",
+              "value": "5",
+              "propertyType": "scene"
+            },
+            {
+              "propertyName": "imageProcessingConfiguration",
+              "childpropertyName": "contrast",
+              "menu_DisplayName": "contrast",
+              "type": "number",
+              "value": "1.78",
+              "propertyType": "scene"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "menu_Id": "PipelineInterior",
+      "headerName": "Pipeline Interior",
+      "isopened": "",
+      "childMenu": [
+        {
+          "menu_Id": "colorcurvesInterior",
+          "headerName": "Color Curves",
+          "isopened": "",
+          "data": [
+            {
+              "propertyName": "create",
+              "menu_DisplayName": "isEnabled",
+              "type": "boolean",
+              "value": "",
+              "propertyType": "colorcurves"
+            },
+            {
+              "propertyName": "colorCurves",
+              "childpropertyName": "globalHue",
+              "menu_DisplayName": "globalHue",
+              "type": "number",
+              "value": "",
+              "propertyType": "colorcurves"
+            },
+            {
+              "propertyName": "colorCurves",
+              "childpropertyName": "globalDensity",
+              "menu_DisplayName": "globalDensity",
+              "type": "number",
+              "value": "",
+              "propertyType": "colorcurves"
+            },
+            {
+              "propertyName": "colorCurves",
+              "childpropertyName": "globalSaturation",
+              "menu_DisplayName": "globalSaturation",
+              "type": "number",
+              "value": "",
+              "propertyType": "colorcurves"
+            },
+            {
+              "propertyName": "colorCurves",
+              "childpropertyName": "globalExposure",
+              "menu_DisplayName": "globalExposure",
+              "type": "number",
+              "value": "",
+              "propertyType": "colorcurves"
+            },
+            {
+              "propertyName": "colorCurves",
+              "childpropertyName": "highlightsHue",
+              "menu_DisplayName": "highlightsHue",
+              "type": "number",
+              "value": "",
+              "propertyType": "colorcurves"
+            },
+            {
+              "propertyName": "colorCurves",
+              "childpropertyName": "highlightsDensity",
+              "menu_DisplayName": "highlightsDensity",
+              "type": "number",
+              "value": "",
+              "propertyType": "colorcurves"
+            },
+            {
+              "propertyName": "colorCurves",
+              "childpropertyName": "highlightsSaturation",
+              "menu_DisplayName": "highlightsSaturation",
+              "type": "number",
+              "value": "",
+              "propertyType": "colorcurves"
+            },
+            {
+              "propertyName": "colorCurves",
+              "childpropertyName": "highlightsExposure",
+              "menu_DisplayName": "highlightsExposure",
+              "type": "number",
+              "value": "",
+              "propertyType": "colorcurves"
+            },
+            {
+              "propertyName": "colorCurves",
+              "childpropertyName": "shadowsHue",
+              "menu_DisplayName": "shadowsHue",
+              "type": "number",
+              "value": "",
+              "propertyType": "colorcurves"
+            },
+            {
+              "propertyName": "colorCurves",
+              "childpropertyName": "shadowsDensity",
+              "menu_DisplayName": "shadowsDensity",
+              "type": "number",
+              "value": "",
+              "propertyType": "colorcurves"
+            },
+            {
+              "propertyName": "colorCurves",
+              "childpropertyName": "shadowsSaturation",
+              "menu_DisplayName": "shadowsSaturation",
+              "type": "number",
+              "value": "",
+              "propertyType": "colorcurves"
+            },
+            {
+              "propertyName": "colorCurves",
+              "childpropertyName": "shadowsExposure",
+              "menu_DisplayName": "shadowsExposure",
+              "type": "number",
+              "value": "",
+              "propertyType": "colorcurves"
+            }
+          ]
+        },
+        {
+          "menu_Id": "imageProcessingConfigurationInterior",
+          "headerName": "Image Processing Configuration",
+          "isopened": "",
+          "data": [
+            {
+              "propertyName": "imageProcessingConfiguration",
+              "childpropertyName": "exposure",
+              "menu_DisplayName": "exposure",
+              "type": "number",
+              "value": "5",
+              "propertyType": "scene"
+            },
+            {
+              "propertyName": "imageProcessingConfiguration",
+              "childpropertyName": "contrast",
+              "menu_DisplayName": "contrast",
+              "type": "number",
+              "value": "1.78",
+              "propertyType": "scene"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "menu_Id": "Scene",
+      "headerName": "Scene",
+      "isopened": "",
+      "childMenu": [
+        {
+          "menu_Id": "clearColor",
+          "headerName": "Clear Color",
+          "isopened": "",
+          "data": [
+            {
+              "propertyName": "clearColor",
+              "menu_DisplayName": "color",
+              "type": "color",
+              "value": "#080808",
+              "propertyType": "scene"
+            }
+          ]
+        },
+        {
+          "menu_Id": "EnvironmentDayExterior",
+          "headerName": "Environment Day Exterior",
+          "isopened": "",
+          "data": [
+            {
+              "propertyName": "environmentTexture",
+              "menu_DisplayName": "Texture",
+              "type": "env",
+              "envViewType": "dayExterior",
+              "value": "assets/images/env_icon.png",
+              "propertyType": "scene",
+              "envPath": "camry_day.env"
+            },
+            {
+              "propertyName": "environmentIntensity",
+              "menu_DisplayName": "Intensity",
+              "type": "number",
+              "envViewType": "dayExterior",
+              "value": "1",
+              "propertyType": "scene"
+            },
+            {
+              "propertyName": "environmentTexture",
+              "childpropertyName": "rotationY",
+              "menu_DisplayName": "rotationY",
+              "envViewType": "dayExterior",
+              "type": "number",
+              "value": "274.734838375736",
+              "propertyType": "scene"
+            },
+            {
+              "envViewType": "dayExterior",
+              "type": "envModelTextures",
+              "data": []
+            }
+          ]
+        },
+        {
+          "menu_Id": "EnvironmentDayInterior",
+          "headerName": "Environment Day Interior",
+          "isopened": "",
+          "data": [
+            {
+              "propertyName": "environmentTexture",
+              "menu_DisplayName": "Texture",
+              "type": "env",
+              "envViewType": "dayInterior",
+              "value": "assets/images/env_icon.png",
+              "propertyType": "scene",
+              "envPath": "camry_day.env"
+            },
+            {
+              "propertyName": "environmentIntensity",
+              "menu_DisplayName": "Intensity",
+              "type": "number",
+              "envViewType": "dayInterior",
+              "value": "1",
+              "propertyType": "scene"
+            },
+            {
+              "propertyName": "environmentTexture",
+              "childpropertyName": "rotationY",
+              "menu_DisplayName": "rotationY",
+              "envViewType": "dayInterior",
+              "type": "number",
+              "value": "274.7",
+              "propertyType": "scene"
+            },
+            {
+              "envViewType": "dayInterior",
+              "type": "envModelTextures",
+              "data": []
+            }
+          ]
+        },
+        {
+          "menu_Id": "EnvironmentNightExterior",
+          "headerName": "Environment Night Exterior",
+          "isopened": "",
+          "data": [
+            {
+              "propertyName": "environmentTexture",
+              "menu_DisplayName": "Texture",
+              "type": "env",
+              "envViewType": "nightExterior",
+              "value": "",
+              "propertyType": "scene",
+              "envPath": ""
+            },
+            {
+              "propertyName": "environmentIntensity",
+              "menu_DisplayName": "Intensity",
+              "type": "number",
+              "value": "1",
+              "envViewType": "nightExterior",
+              "propertyType": "scene"
+            },
+            {
+              "propertyName": "environmentTexture",
+              "childpropertyName": "rotationY",
+              "menu_DisplayName": "rotationY",
+              "envViewType": "nightExterior",
+              "type": "number",
+              "value": "1",
+              "propertyType": "scene"
+            },
+            {
+              "envViewType": "nightExterior",
+              "type": "envModelTextures",
+              "data": []
+            }
+          ]
+        },
+        {
+          "menu_Id": "EnvironmentNightInterior",
+          "headerName": "Environment Night Interior",
+          "isopened": "",
+          "data": [
+            {
+              "propertyName": "environmentTexture",
+              "menu_DisplayName": "Texture",
+              "type": "env",
+              "envViewType": "nightInterior",
+              "value": "",
+              "propertyType": "scene",
+              "envPath": ""
+            },
+            {
+              "propertyName": "environmentIntensity",
+              "menu_DisplayName": "Intensity",
+              "type": "number",
+              "value": "1",
+              "envViewType": "nightInterior",
+              "propertyType": "scene"
+            },
+            {
+              "propertyName": "environmentTexture",
+              "childpropertyName": "rotationY",
+              "menu_DisplayName": "rotationY",
+              "envViewType": "nightInterior",
+              "type": "number",
+              "value": "1",
+              "propertyType": "scene"
+            },
+            {
+              "envViewType": "nightInterior",
+              "type": "envModelTextures",
+              "data": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "menu_Id": "Camera",
+      "headerName": "Camera",
+      "isopened": "",
+      "childMenu": [
+        {
+          "menu_Id": "Interior",
+          "headerName": "Interior",
+          "isopened": "",
+          "data": [
+            {
+              "propertyName": "alpha",
+              "menu_DisplayName": "alpha",
+              "type": "number",
+              "value": "",
+              "propertyType": "camera"
+            },
+            {
+              "propertyName": "beta",
+              "menu_DisplayName": "beta",
+              "type": "number",
+              "value": "",
+              "propertyType": "camera"
+            },
+            {
+              "propertyName": "fov",
+              "menu_DisplayName": "fov",
+              "type": "number",
+              "value": "",
+              "propertyType": "camera"
+            },
+            {
+              "propertyName": "radius",
+              "menu_DisplayName": "radius",
+              "type": "number",
+              "value": "",
+              "propertyType": "camera"
+            },
+            {
+              "propertyName": "position",
+              "childpropertyName": "x",
+              "menu_DisplayName": "positionX",
+              "type": "number",
+              "value": "",
+              "propertyType": "camera"
+            },
+            {
+              "propertyName": "position",
+              "childpropertyName": "y",
+              "menu_DisplayName": "positionY",
+              "type": "number",
+              "value": "",
+              "propertyType": "camera"
+            },
+            {
+              "propertyName": "position",
+              "childpropertyName": "z",
+              "menu_DisplayName": "positionZ",
+              "type": "number",
+              "value": "",
+              "propertyType": "camera"
+            },
+            {
+              "propertyName": "target",
+              "childpropertyName": "x",
+              "menu_DisplayName": "targetX",
+              "type": "number",
+              "value": "",
+              "propertyType": "camera"
+            },
+            {
+              "propertyName": "target",
+              "childpropertyName": "y",
+              "menu_DisplayName": "targetY",
+              "type": "number",
+              "value": "",
+              "propertyType": "camera"
+            },
+            {
+              "propertyName": "target",
+              "childpropertyName": "z",
+              "menu_DisplayName": "targetZ",
+              "type": "number",
+              "value": "",
+              "propertyType": "camera"
+            },
+            {
+              "propertyName": "upperBetaLimit",
+              "menu_DisplayName": "upperBetaLimit",
+              "type": "number",
+              "value": "",
+              "propertyType": "camera"
+            },
+            {
+              "propertyName": "lowerBetaLimit",
+              "menu_DisplayName": "lowerBetaLimit",
+              "type": "number",
+              "value": "",
+              "propertyType": "camera"
+            },
+            {
+              "propertyName": "upperRadiusLimit",
+              "menu_DisplayName": "upperRadiusLimit",
+              "type": "number",
+              "value": "",
+              "propertyType": "camera"
+            },
+            {
+              "propertyName": "lowerRadiusLimit",
+              "menu_DisplayName": "lowerRadiusLimit",
+              "type": "number",
+              "value": "",
+              "propertyType": "camera"
+            },
+            {
+              "propertyName": "lowerAlphaLimit",
+              "menu_DisplayName": "lowerAlphaLimit",
+              "type": "number",
+              "value": "",
+              "propertyType": "camera"
+            },
+            {
+              "propertyName": "upperAlphaLimit",
+              "menu_DisplayName": "upperAlphaLimit",
+              "type": "number",
+              "value": "",
+              "propertyType": "camera"
+            }
+          ]
+        },
+        {
+          "menu_Id": "Exterior",
+          "headerName": "Exterior",
+          "isopened": "",
+          "data": [
+            {
+              "propertyName": "alpha",
+              "menu_DisplayName": "alpha",
+              "type": "number",
+              "value": "",
+              "propertyType": "camera"
+            },
+            {
+              "propertyName": "beta",
+              "menu_DisplayName": "beta",
+              "type": "number",
+              "value": "",
+              "propertyType": "camera"
+            },
+            {
+              "propertyName": "fov",
+              "menu_DisplayName": "fov",
+              "type": "number",
+              "value": "",
+              "propertyType": "camera"
+            },
+            {
+              "propertyName": "radius",
+              "menu_DisplayName": "radius",
+              "type": "number",
+              "value": "",
+              "propertyType": "camera"
+            },
+            {
+              "propertyName": "position",
+              "childpropertyName": "x",
+              "menu_DisplayName": "positionX",
+              "type": "number",
+              "value": "",
+              "propertyType": "camera"
+            },
+            {
+              "propertyName": "position",
+              "childpropertyName": "y",
+              "menu_DisplayName": "positionY",
+              "type": "number",
+              "value": "",
+              "propertyType": "camera"
+            },
+            {
+              "propertyName": "position",
+              "childpropertyName": "z",
+              "menu_DisplayName": "positionZ",
+              "type": "number",
+              "value": "",
+              "propertyType": "camera"
+            },
+            {
+              "propertyName": "target",
+              "childpropertyName": "x",
+              "menu_DisplayName": "targetX",
+              "type": "number",
+              "value": "",
+              "propertyType": "camera"
+            },
+            {
+              "propertyName": "target",
+              "childpropertyName": "y",
+              "menu_DisplayName": "targetY",
+              "type": "number",
+              "value": "",
+              "propertyType": "camera"
+            },
+            {
+              "propertyName": "target",
+              "childpropertyName": "z",
+              "menu_DisplayName": "targetZ",
+              "type": "number",
+              "value": "",
+              "propertyType": "camera"
+            },
+            {
+              "propertyName": "upperBetaLimit",
+              "menu_DisplayName": "upperBetaLimit",
+              "type": "number",
+              "value": "",
+              "propertyType": "camera"
+            },
+            {
+              "propertyName": "lowerBetaLimit",
+              "menu_DisplayName": "lowerBetaLimit",
+              "type": "number",
+              "value": "",
+              "propertyType": "camera"
+            },
+            {
+              "propertyName": "upperRadiusLimit",
+              "menu_DisplayName": "upperRadiusLimit",
+              "type": "number",
+              "value": "",
+              "propertyType": "camera"
+            },
+            {
+              "propertyName": "lowerRadiusLimit",
+              "menu_DisplayName": "lowerRadiusLimit",
+              "type": "number",
+              "value": "",
+              "propertyType": "camera"
+            },
+            {
+              "propertyName": "lowerAlphaLimit",
+              "menu_DisplayName": "lowerAlphaLimit",
+              "type": "number",
+              "value": "",
+              "propertyType": "camera"
+            },
+            {
+              "propertyName": "upperAlphaLimit",
+              "menu_DisplayName": "upperAlphaLimit",
+              "type": "number",
+              "value": "",
+              "propertyType": "camera"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

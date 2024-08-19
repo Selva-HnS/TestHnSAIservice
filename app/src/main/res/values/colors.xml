@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="text_black">#656464</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="light_gray">#FCFEFF</color>
+    <color name="pop_gray">#FAFAFA</color>
+    <color name="text_gray">#8C8C8C</color>
+    <color name="gray">#616161</color>
+    <color name="vision">#878787</color>
+    <color name="acumen360_blue">#0084CE</color>
+    <color name="acumen360_blue_dark">#154982</color>
+
+    <color name="red">#FB0E0E</color>
+    <color name="green">#049C3C</color>
+
+    <color name="dfg">#ACACAC</color>
+    <color name="grey">#EB000000</color>
+
+    <color name="light_grays">#EFECEC</color>
+    <color name="light_transparent">#3C000000</color>
+
+    <color name="user_border">#C9C8C8</color>
+    <color name="dark_grey">#424242</color>
+</resources>

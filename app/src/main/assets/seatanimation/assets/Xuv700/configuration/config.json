@@ -1,0 +1,55 @@
+{
+  "sceneConfig": {
+    "hotSpotsList": [],
+    "cameraAnimationsList": [],
+    "colorVariantsList": [],
+    "modelVariantsList": [],
+    "highLightList": [],
+    "cameraViewsList": {
+      "exterior": [],
+      "interior": [
+        {
+          "name": "seat interior",
+          "type": "interior",
+          "data": {
+            "fov": "1.2",
+            "radius": 0.0001,
+            "position": {
+              "x": -0.21006474068179348,
+              "y": 1.4400527560163627,
+              "z": 0.11005500406219938
+            },
+            "alpha": 2.4373274563162646,
+            "beta": 1.0150703566591204
+          },
+          "isDefault": true
+        }
+      ]
+    },
+    "modelAnimationsList": [],
+    "accessoriesList": {
+      "exterior": [],
+      "interior": []
+    },
+    "defaulModelHideList": [],
+    "modelLightingList": [],
+    "variantsNamesList": [],
+    "modelFilesData": [
+      {
+        "fileName": "Road.glb"
+      },
+      {
+        "fileName": "Tyer_Front.glb"
+      },
+      {
+        "fileName": "XUV700_Exterior.glb"
+      },
+      {
+        "fileName": "XUV700_Interior.glb"
+      },
+      {
+        "fileName": "XUV700_Seat_Anim.glb"
+      }
+    ]
+  }
+}
